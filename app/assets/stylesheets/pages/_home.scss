@@ -11,70 +11,82 @@
   height: 100%;
 }
 
-#font-1{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Bellota', cursive;
-}
-#font-2{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Great Vibes', cursive;
-}
-#font-3{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Sacramento', cursive;
-}
-#font-4{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Gotu', sans-serif;
-}
-#font-5{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Rock Salt', cursive;
-}
-#font-6{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Tangerine', cursive;
-}
+// #font-1{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Bellota', cursive;
+// }
+// #font-2{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Great Vibes', cursive;
+// }
+// #font-3{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Sacramento', cursive;
+// }
+// #font-4{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Gotu', sans-serif;
+// }
+// #font-5{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Rock Salt', cursive;
+// }
+// #font-6{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Tangerine', cursive;
+// }
 #font-7{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
+  //text-shadow: 1px 1px 1px white;
+  //color: rgb(212,175,55);
+  color: transparent;
   font-size:52px;
-  font-family: 'Julius Sans One', sans-serif;
-}
-#font-8{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Italianno', cursive;
-}
-#font-9{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Fredericka the Great', cursive;
-}
-#font-10{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Raleway Dots', cursive;
-}
-#font-11{
-  text-shadow: 1px 1px 1px white;
-  color: rgb(212,175,55);
-  font-size:32px;
-  font-family: 'Faster One', cursive;
+  // font-weight: bold;
+  // font-family: 'Julius Sans One', sans-serif;
+  font: bold 200px arial, sans-serif;
+  text-shadow: 1px 1px 3px rgba(212,175,55,0.8);
+  background-color: rgba(30,30,30,8);
+   -webkit-background-clip: text;
+      -moz-background-clip: text;
+           background-clip: text;
 
-}
+  // -webkit-text-stroke-width: 1px;
+  // -webkit-text-stroke-color: black;
+
+ }
+// #font-8{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Italianno', cursive;
+// }
+// #font-9{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Fredericka the Great', cursive;
+// }
+// #font-10{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Raleway Dots', cursive;
+// }
+// #font-11{
+//   text-shadow: 1px 1px 1px white;
+//   color: rgb(212,175,55);
+//   font-size:32px;
+//   font-family: 'Faster One', cursive;
+
+// }
