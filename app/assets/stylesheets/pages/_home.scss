@@ -11,6 +11,50 @@
   height: 100%;
 }
 
+#marque{
+  width: 60%;
+
+}
+
+
+#contain-brand{
+  position: relative;
+
+}
+
+#text-container{
+  position: absolute;
+  font-family: 'OptimusPrinceps';
+  display: flex;
+  align-items: flex-end;
+  top: -16px;
+  left: 28px;
+  letter-spacing: 18px;
+
+  #d{
+    font-size: 150px;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  #emonge{
+    font-size: 115px;
+    display: flex;
+    align-items: flex-end;
+    line-height: 200px;
+
+  }
+
+  #e{
+    font-size: 150px;
+    display: flex;
+    align-items: flex-end;
+
+  }
+
+}
+
+
 // #font-1{
 //   text-shadow: 1px 1px 1px white;
 //   color: rgb(212,175,55);
@@ -47,24 +91,24 @@
 //   font-size:32px;
 //   font-family: 'Tangerine', cursive;
 // }
-#font-7{
-  //text-shadow: 1px 1px 1px white;
-  //color: rgb(212,175,55);
-  color: transparent;
-  font-size:52px;
-  // font-weight: bold;
-  // font-family: 'Julius Sans One', sans-serif;
-  font: bold 200px arial, sans-serif;
-  text-shadow: 1px 1px 3px rgba(212,175,55,0.8);
-  background-color: rgba(30,30,30,8);
-   -webkit-background-clip: text;
-      -moz-background-clip: text;
-           background-clip: text;
+// #font-7{
+//   //text-shadow: 1px 1px 1px white;
+//   //color: rgb(212,175,55);
+//   color: transparent;
+//   font-size:52px;
+//   // font-weight: bold;
+//   // font-family: 'Julius Sans One', sans-serif;
+//   font: bold 200px arial, sans-serif;
+//   text-shadow: 1px 1px 3px rgba(212,175,55,0.8);
+//   background-color: rgba(30,30,30,8);
+//    -webkit-background-clip: text;
+//       -moz-background-clip: text;
+//            background-clip: text;
 
-  // -webkit-text-stroke-width: 1px;
-  // -webkit-text-stroke-color: black;
+//   // -webkit-text-stroke-width: 1px;
+//   // -webkit-text-stroke-color: black;
 
- }
+//  }
 // #font-8{
 //   text-shadow: 1px 1px 1px white;
 //   color: rgb(212,175,55);
